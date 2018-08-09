@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Alison - Tech sourcer - Facebook - I'm hiring babe!
 
-You can use the [editor on GitHub](https://github.com/alisvannier/Hey/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Joined Facebook London (GMS - Solutions Engineering team - EMEA)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Solutions Engineer @Facebook !
 
-### Markdown
+https://www.facebook.com/careers/jobs/a0I1200000JXhMxEAL/?q=solutions%20engineer&location=berlin
+https://techcrunch.com/2017/12/29/facebook-solutions-engineering / 
+http://www.mohsinali.net/why-solutions-eng.html 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Solutions Engineers work closely with clients and partners to understand real world problems and solve them with code. They build and architect solutions that address these business challenges through technology.
 
-```markdown
-Syntax highlighted code block
+### Where?
 
-# Header 1
-## Header 2
-### Header 3
+London, Dublin, Amsterdam, Stockholm, Berlin, Tel Aviv..
 
-- Bulleted
-- List
+### Any questions ? 
 
-1. Numbered
-2. List
+How to contact me? 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alisvannier/Hey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Alisvannier@fb.com or alison_vannier on twitter or https://www.linkedin.com/in/alisonvannier/
